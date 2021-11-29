@@ -1,0 +1,1 @@
+simplescan.o: ../simplescan.cpp
